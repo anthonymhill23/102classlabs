@@ -7,4 +7,14 @@ CSS is a language used to dictate how a website is presented to the user (genera
 
 ## CSS Syntax
 Css is a rule based language, by that i mean the programmer defines rules specifying groups of styles that should be applied to paticular elements or groups of elements on the web page. 
+an example of this would be
+
+```css
+h1{
+    color:red;
+    font size: 5em;
 }
+``` 
+what this does is open with a selector, which  selects the HTML elements that we are going to syele, in this case, we are styling Level one headings
+
+In most coding languages CSS can be used to style a website, It takes it from a regular bry page to something with some pizzazz
